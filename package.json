@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shevel/LandingPage/issues"
   },
-  "homepage": "https://github.com/Shevel/LandingPage#readme"
+  "homepage": "https://github.com/Shevel/LandingPage#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
