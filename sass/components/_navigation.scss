@@ -1,7 +1,7 @@
 .navigation {
   display: flex;
-  font-size: 1.5rem;
-  line-height: 2.8rem;
+  @include font($size: 1.5rem, $height: 2.8rem, $weight: normal);
+  padding: 0;
 }
 .navigation__link {
   list-style: none;
@@ -10,5 +10,10 @@
   @extend %transition;
   &:hover {
     color: $color-primary;
+  }
+}
+.header__navigation {
+  @include media-tablet {
+    display: none;
   }
 }
