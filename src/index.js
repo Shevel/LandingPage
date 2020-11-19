@@ -6,7 +6,7 @@ const data = [
   {
     id: 1,
     title: 'Increasing Prosperity With Positive Thinking',
-    urlToImage: './src/img/strategies/1.jpg',
+    urlToImage: '2bc33b41d34705c0f26ebb42292435c5.jpg',
     tags: ['Art', 'Design'],
     content: 'Knowing yourself is the first, and a very critical step in the process of planning your future. How can you figure out what you want to do with your life if you don’t know: What am I going to do with the  rest of my life? What is my dream job? What do I enjoy doing? What’s my passion? What kind of career fits my personality?',
     date: '01.01.2020'
@@ -14,7 +14,7 @@ const data = [
   {
     id: 2,
     title: 'Motivation Is The First Step To Success',
-    urlToImage: './src/img/strategies/2.jpg',
+    urlToImage: '371b9537a69e3f24acbaefca01f6abb8.jpg',
     tags: ['Culture'],
     content: 'Knowing yourself is the first, and a very critical step in the process of planning your future. How can you figure out what you want to do with your life if you don’t know: What am I going to do with the  rest of my life? What is my dream job? What do I enjoy doing? What’s my passion? What kind of career fits my personality?',
     date: '01.01.2020'
@@ -22,7 +22,7 @@ const data = [
   {
     id: 3,
     title: 'Success Steps For Your Personal Or Business Life',
-    urlToImage: './src/img/strategies/3.jpg',
+    urlToImage: 'a500ef0dbbca50cad07cf420d3e7b45c.jpg',
     tags: ['Culture', 'Design', 'Art'],
     content: 'Knowing yourself is the first, and a very critical step in the process of planning your future. How can you figure out what you want to do with your life if you don’t know: What am I going to do with the  rest of my life? What is my dream job? What do I enjoy doing? What’s my passion? What kind of career fits my personality?',
     date: '01.01.2020'
