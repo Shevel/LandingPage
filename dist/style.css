@@ -546,43 +546,43 @@ h5 {
 }
 
 .ico_play {
-  background-image: url("../img/icons/play.svg");
+  background-image: url(6a4303c01a5235708787f4f0d35e5224.svg);
   width: 18px;
   height: 19px;
 }
 
 .ico_arrow {
-  background-image: url("../img/icons/arrow.svg");
+  background-image: url(aa1d87ff0fbdc1f23fe67e07dd94ba10.svg);
   width: 12px;
   height: 17px;
 }
 
 .ico_snake {
-  background-image: url("../img/icons/snake.svg");
+  background-image: url(193224a92ccdcaefba7c6a0eff7b2711.svg);
   width: 18px;
   height: 14px;
 }
 
 .ico_heart {
-  background-image: url("../img/icons/heart.svg");
+  background-image: url(c3cbf0b693aad0bd90280100979d9cb5.svg);
   width: 17px;
   height: 15px;
 }
 
 .ico_clock {
-  background-image: url("../img/icons/clock.svg");
+  background-image: url(44577200373d2da0331ac005c4c8cbe7.svg);
   width: 15px;
   height: 17px;
 }
 
 .ico_phone {
-  background-image: url("../img/icons/phone.svg");
+  background-image: url(6a7a2ec61e5258b99d5e3a7841871a92.svg);
   width: 13px;
   height: 13px;
 }
 
 .ico_letter {
-  background-image: url("../img/icons/letter.svg");
+  background-image: url(296cc481a407ea43ac720b314b1c9eb8.svg);
   width: 11px;
   height: 8px;
 }
@@ -1030,7 +1030,7 @@ h5 {
 
 .tools__wrapper {
   padding-bottom: 90px;
-  background-image: url("../img/backgrounds/tools-bg.svg");
+  background-image: url(9c76f5eb44d34b332404f709fef28d44.svg);
   background-position: center bottom;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -1243,4 +1243,4 @@ h5 {
   box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map*/

@@ -1,11 +1,12 @@
 import { Article } from './js/Article';
 import { ArticleModal } from './js/ArticleModal';
 import { Modal } from './js/Modal';
+
 const data = [
   {
     id: 1,
     title: 'Increasing Prosperity With Positive Thinking',
-    urlToImage: './src/img/strategies/1.jpg',
+    urlToImage: 'https://www.bigcommerce.com/blog/wp-content/uploads/2017/07/ecommerce-strategies-hero.jpg',
     tags: ['Art', 'Design'],
     content: 'Knowing yourself is the first, and a very critical step in the process of planning your future. How can you figure out what you want to do with your life if you don’t know: What am I going to do with the  rest of my life? What is my dream job? What do I enjoy doing? What’s my passion? What kind of career fits my personality?',
     date: '01.01.2020'

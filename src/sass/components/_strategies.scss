@@ -41,6 +41,9 @@
   &_hidden {
     display: none;
   }
+  @include media-laptop {
+    margin-top: 15px;
+  }
   @include media-tablet {
     overflow: hidden;
     padding-top: 200px;
