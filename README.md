@@ -19,4 +19,4 @@ Technology stack:
 
 ---
 
-[Deployed site <---](https://app.netlify.com/teams/shevel/sites)
+[Deployed site <---](https://shevel-landing-page.netlify.app/)
